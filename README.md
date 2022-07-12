@@ -1,5 +1,13 @@
 # Complementary_exercises
 
+git clone --bare https://github.com/oscar-dif/project1.git
+
+
+https://github.com/strandjd?tab=repositories
+
+$ git push --mirror https://github.com/oscar-dif/project1.git
+
+
 
 SQL
 
